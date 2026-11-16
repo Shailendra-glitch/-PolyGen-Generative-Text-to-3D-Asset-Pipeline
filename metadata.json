@@ -1,0 +1,6 @@
+{
+  "name": "PolyGen",
+  "description": "Generative Text-to-3D PBR Asset Pipeline with QEM mesh decimation, procedural PBR synthesis, and interactive WebGL inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
